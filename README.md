@@ -1,11 +1,7 @@
 # Proyecto Angular Front 
 ## Proyecto consume una api desarrollada el LoopBack4 con persistencia en MongoDB 
 
-## `Angular`
-## `materialize`
-## `npm`
-## `cryptojs`
-`Autenticacion token`
+## `Angular` `materialize` `npm` `cryptojs` `Autenticacion token`
 
 # Autor:[`Nelson Andres Montealegre`](https://github.com/erre0uno)
 
