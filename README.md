@@ -5,6 +5,10 @@
 
 # Autor:[`Nelson Andres Montealegre`](https://github.com/erre0uno)
 
+![alt text](https://github.com/erre0uno/ProyectoMinticFront/docu/init.png?raw=true)
+
+
+
 # AngularApi
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
