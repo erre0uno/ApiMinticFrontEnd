@@ -8,6 +8,8 @@
 `Autenticacion token`
 
 # Autor:`Nelson Andres Montealegre`
+# Autor:[`Nelson Andres Montealegre`](https://github.com/erre0uno)
+# Autor:[Nelson Andres Montealegre](https://github.com/erre0uno)
 
 # AngularApi
 
