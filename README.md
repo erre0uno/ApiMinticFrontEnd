@@ -5,7 +5,7 @@
 
 # Autor:[`Nelson Andres Montealegre`](https://github.com/erre0uno)
 
-![alt text](https://github.com/erre0uno/ProyectoMinticFront/docu/init.png?raw=true)
+![alt text](https://github.com/erre0uno/ProyectoMinticFront/blob/main/docu/init.png?raw=true)
 
 
 
