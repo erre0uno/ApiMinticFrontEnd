@@ -1,3 +1,14 @@
+# Proyecto Angular Front 
+## Proyecto consume una api desarrollada el LoopBack4 con persistencia en MongoDB 
+
+`Angular`
+`materialize`
+`npm`
+`cryptojs`
+`Autenticacion token`
+
+# Autor:`Nelson Andres Montealegre`
+
 # AngularApi
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
