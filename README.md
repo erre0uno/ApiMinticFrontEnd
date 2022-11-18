@@ -7,6 +7,9 @@
 
 ![intit](https://github.com/erre0uno/ProyectoMinticFront/blob/main/docu/init.png?raw=true)
 
+<br>
+
+![intit](https://github.com/erre0uno/ProyectoMinticFront/blob/main/docu/init2.png?raw=true)
 
 
 # AngularApi

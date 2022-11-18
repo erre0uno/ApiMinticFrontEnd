@@ -1,4 +1,7 @@
 import { Component, OnInit } from '@angular/core';
+import { Subscription } from 'rxjs';
+import { ModelUser } from 'src/app/models/user.model';
+import { AutenticacionService } from 'src/app/services/autenticacion.service';
 
 @Component({
   selector: 'app-navbar',
@@ -7,9 +10,16 @@ import { Component, OnInit } from '@angular/core';
 })
 export class NavbarComponent implements OnInit {
 
-  constructor() { }
+  setSesion:boolean=false;
+
+  subscripcion: Subscription= new Subscription;
+
+  constructor( private servicionAutenticacion:AutenticacionService) { }
 
   ngOnInit(): void {
+    this.subscripcion = this.servicionAutenticacion.obtenerDatosUsuarioEnSesion().subscribe((datos:ModelUser)=>{
+      this.setSesion=datos.islogin;  
+    });
   }
 
 }
