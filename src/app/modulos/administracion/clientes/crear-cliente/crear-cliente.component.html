@@ -1,9 +1,8 @@
 <div class="container-fluid">
     <div class="row m-b-none formstyle">
       <form [formGroup]='fValidator' id="form-cliente" method="POST" (ngSubmit)="crearCliente()" class="card-panel" >
-        <h3 class="center-align blue-text">Crear Cliente</h3>
-        <br>
-
+          <h2 class="center-align ">Crear Cliente</h2>
+          <br>
         <div class='input-field'>
           <input formControlName="nombre" class='validate' type='text' name='nombre' id='nombre' />
           <label for='nombre'>Ingresar nombre</label>
